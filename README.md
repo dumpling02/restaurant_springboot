@@ -6,9 +6,9 @@ __基于SSM+springboot+vue+MySQL实现的宿舍带饭管理系统__
 
 ---
 # 使用方法
-> 用户先执行sql文件创建数据库
-> 然后再运行springboot程序
-> 之后访问路径http://localhost:8999/pages/books.html即可
+> 用户先执行sql文件创建数据库  
+> 然后再运行springboot程序  
+> 之后访问路径http://localhost:8999/pages/books.html即可  
 
 # 运行效果如图
 
