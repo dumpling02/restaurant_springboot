@@ -22,7 +22,7 @@
 
 可以选择对应的“食神” 和 “带饭侠” 进行结账清算，计算出二者对应的债务关系  
 
-程序还待后续完善
+程序还待后续完善... 
 
 ![image](https://github.com/dumpling02/restaurant_springboot/assets/105651412/cfd029e6-1e1b-4f82-9d6e-c3be42873d6c)
 
